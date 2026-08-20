@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown and Logic Symbol Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #viewer {
+            border: 1px solid #ccc;
+            padding: 20px;
+            min-height: 300px;
+            background-color: #f9f9f9;
+        }
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Markdown and Logic Symbol Viewer</h1>
+    <textarea id="markdown-input" placeholder="Write your markdown with logic symbols here..."></textarea>
+    <div id="viewer"></div>
+
+    <!-- Include Markdown-it -->
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+    <!-- Include MathJax for logic symbols -->
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <script>
+        // Initialize Markdown-it
+        const md = window.markdownit();
+        const input = document.getElementById("markdown-input");
+        const viewer = document.getElementById("viewer");
+
+        // Function to render the markdown
+        function renderMarkdown() {
+            const markdownText = input.value;
+            viewer.innerHTML = md.render(markdownText);
+            MathJax.typeset();  // Reprocess MathJax after rendering markdown
+        }
+
+        // Event listener for input changes
+        input.addEventListener("input", renderMarkdown);
+
+        // Initial rendering with example Markdown
+        input.value = `
+### **Fundamental Laws of Logic**:
+
+### 1. **Law of Identity**
+   - **Statement**: A proposition is identical to itself.
+   - **Formal Expression**: $$ P \\equiv P $$
+   - **Example**: "The sky is blue" is the same as saying "The sky is blue." This is a tautology (true in all cases).
+   - **Natural Example**: If you say "Water is wet," this statement holds true by definition and is identical to itself.
+`;
+        renderMarkdown();
+    </script>
+
+</body>
+</html>

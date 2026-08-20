@@ -1,0 +1,135 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LaTeX in HTML</title>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Using LaTeX in HTML</h1>
+<p>Here is a logical implication:</p>
+<p>$$ P \to Q $$ (If \( P \), then \( Q \))</p>
+
+</body>
+</html> -->
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LaTeX and Markdown Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #output {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 20px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Upload and View Markdown File</h1>
+<input type="file" id="fileInput" accept=".md" />
+<button id="viewButton">View Markdown</button>
+
+<div id="output"></div>
+
+<script>
+    document.getElementById('viewButton').addEventListener('click', function() {
+        const fileInput = document.getElementById('fileInput');
+        if (fileInput.files.length === 0) {
+            alert("Please select a file.");
+            return;
+        }
+        const file = fileInput.files[0];
+        const reader = new FileReader();
+        
+        reader.onload = function(e) {
+            const markdownContent = e.target.result;
+            const htmlContent = marked.parse(markdownContent).replace(/\n/g, "<br/>");
+            document.getElementById('output').innerHTML = htmlContent; 
+            MathJax.typeset();  // Render LaTeX
+        };
+        
+        reader.readAsText(file);
+    });
+</script>
+
+</body>
+</html> 
+
+
+
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown and LaTeX Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> 
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #output {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 20px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Upload and View Markdown File</h1>
+<input type="file" id="fileInput" accept=".md" />
+<button id="viewButton">View Markdown</button>
+
+<div id="output"></div>
+
+<script>
+    document.getElementById('viewButton').addEventListener('click', function() {
+        const fileInput = document.getElementById('fileInput');
+        if (fileInput.files.length === 0) {
+            alert("Please select a file.");
+            return;
+        }
+        const file = fileInput.files[0];
+        const reader = new FileReader();
+        
+        reader.onload = function(e) {
+            const markdownContent = e.target.result;
+            const htmlContent = marked.parse(markdownContent); // Use marked.parse()
+            document.getElementById('output').innerHTML = htmlContent;
+            MathJax.typeset();  // Render LaTeX
+        };
+        
+        reader.readAsText(file);
+    });
+</script>
+
+</body>
+</html> -->

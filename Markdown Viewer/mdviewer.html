@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Viewer with KaTeX</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        #content {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-top: 20px;
+            min-height: 300px;
+            background-color: #f4f4f4;
+        }
+    </style>
+
+    <!-- KaTeX CSS for styling -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+
+</head>
+<body>
+
+<div class="container">
+    <h1>Markdown Viewer with KaTeX</h1>
+    <input type="file" id="mdFile" accept=".md">
+    <button id="loadButton">Load Markdown</button>
+    <div id="content"></div>
+</div>
+
+<!-- Marked.js CDN -->
+<script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+
+<!-- KaTeX Script for rendering -->
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"></script>
+
+<script>
+    document.getElementById('loadButton').addEventListener('click', function() {
+        const fileInput = document.getElementById('mdFile');
+        const contentDiv = document.getElementById('content');
+        
+        if (fileInput.files.length === 0) {
+            alert("Please select a Markdown file.");
+            return;
+        }
+
+        const file = fileInput.files[0];
+        const reader = new FileReader();
+
+        reader.onload = function(event) {
+            const markdownText = event.target.result;
+            
+            // Convert Markdown to HTML
+            const htmlContent = marked.parse(markdownText);
+            contentDiv.innerHTML = htmlContent;
+
+            // Re-process the HTML content with KaTeX to automatically render math
+            renderMathInElement(contentDiv, {
+                delimiters: [
+                    {left: "\\(", right: "\\)", display: false},
+                    {left: "\\[", right: "\\]", display: true}
+                ],
+                throwOnError: false
+            });
+        };
+
+        reader.readAsText(file);
+    });
+</script>
+
+</body>
+</html>
