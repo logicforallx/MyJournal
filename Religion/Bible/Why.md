@@ -1,0 +1,1 @@
+This part of the documentation is for analyzing and scrutinizing -- claim, faith, beliefs, etc about the bible
