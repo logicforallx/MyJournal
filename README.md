@@ -45,7 +45,7 @@ Arguments for and against God's existence, and inquiries into necessity,
 causation, perfection, intelligence, goodness, and other possible attributes.
 
 - [Supreme Being](Supreme%20Being/)
-- [Archived God investigations](Archived/God/)
+<!-- - [Archived God investigations](Archived/God/) -->
 
 ### Religion and belief revision
 
