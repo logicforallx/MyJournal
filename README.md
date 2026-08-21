@@ -44,7 +44,7 @@ foundationalism, fallibilism, and the limits of observation.
 Arguments for and against God's existence, and inquiries into necessity,
 causation, perfection, intelligence, goodness, and other possible attributes.
 
-- [Supreme Being](Supreme%20Being/)
+- [Supremely Perfect Being](Supremely%20Perfect/)
 <!-- - [Archived God investigations](Archived/God/) -->
 
 ### Religion and belief revision
