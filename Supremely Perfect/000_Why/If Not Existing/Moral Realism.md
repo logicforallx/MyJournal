@@ -44,18 +44,23 @@ Key:
     - Math/logic can instrumentally obligate (to achieve a goal), but morality claims categorical obligation (binding regardless of goals). Success/failure is goal-relative; morality is not. Does it not?
     - Even if laws of logic, math and the likes necessitates someone to follow that law, those laws (ie., logic, math, etc) necessitates the Existence of Supreme (ie. ontological argument, trademark argument, etc). If those pure logical argument are false, then laws of logic are not entirely reliable, which means that it cannot oblige or necessitates someone entirely, right?
     - (OPEN)
+    ---
 
 * Moral Platonism: Some posit that moral facts simply exist as part of the fabric of reality, much like numbers or logical truths, requiring no further grounding, as it might be eternal, unchanging, and necessary.
     - Even if those are the case, are ideas or abstract entities alone can actualize something? How do static, non-personal "moral forms" generate duties toward objective beings? How do impersonal abstractions **impose** real obligations on conscious agents?
     - (OPEN)
+    ---
 
 * Naturalistic accounts: Others argue that objective moral truths can be grounded in natural facts—for example, facts about human flourishing, suffering, or rational agency.
     - "Natural facts" = "is" statements (e.g., "Pain is unpleasant," "Humans need oxygen."). But an "is" doesn't logically imply an "ought", does it not? (this is David Hume’s **is–ought gap**).
     - (OPEN)
+    ---
 
 * The Euthyphro Dilemma: The classic challenge: "Is something good because God commands it, or does God command it because it is good?" If the former, morality seems arbitrary; if the latter, morality is independent of God.
     - This is False dichotomy: It assumes only two options. Third option (Aquinas, Augustine, modern theists): God **is** the Good itself, not external to it, and not arbitrarily inventing it. God's will or nature flow necessarily from It's own Good nature. Therefore, goodness is neither arbitrary nor independent of God.
     - (OPEN)
+
+---
 
 ## Conclusion
 
