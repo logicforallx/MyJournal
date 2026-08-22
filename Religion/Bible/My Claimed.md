@@ -50,10 +50,10 @@ This documentation is a ist of my claim as evidence about my faith in the bible 
 ## Authenticity of the Bible (Included in the canon, the 66 or 67 books)
 
 1. God's word or wisdom  written on it, has no error, and all are in righteousness as it is written in Prov8:8-9 "All the words of my mouth are in righteousness; there is nothing froward or perverse in them. They are all plain to him that understandeth, and right to them that find knowledge."
-	- Look \Meditation\Bible\GW.md
+	- Look \\Bible\GW.md
 
 2. No one can gainsay nor resist the wisdom on it as it is written in Luke21:13-15 "...And it shall turn to you for a testimony. Settle it therefore in your hearts, not to meditate before what ye shall answer: For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist..."
-	- Look \Meditation\Bible\GW.md
+	- Look \\Bible\GW.md
 
 3. It is consistent with other portions of the Bible known to be valid, meaning the book couldn't contradict a trusted element of Scripture but has a link to other Scripture as it is written in Prov8:8-9 
 

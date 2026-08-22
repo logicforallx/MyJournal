@@ -32,11 +32,11 @@
 
 * For reason number 1: The claim that the "Bible God's word and wisdom written in the Bible have no errors, and no one can gainsay nor resist it and all are in righteousnes" is questionable or not conclusively proven. It seems that it needs to be justified and scrutinized further base on our updated epistemology, does it?
 
-* For reason number 2: The claim "..doctrine must be from God, must be written in the bible..." is questionable. We don't have conclusive proof right now that the claimed god's word or wisdom from the bible are truly from God, plus there are many more questionable item we can see on our docu - '\MyPrivJournalReligion\Bible'
+* For reason number 2: The claim "..doctrine must be from God, must be written in the bible..." is questionable. We don't have conclusive proof right now that the claimed god's word or wisdom from the bible are truly from God, plus there are many more questionable item we can see on our docu - '\\Religion\Bible'
 
-* For reason number 2: Even if we assume that the true church must be base on what's written on the bible, the claim that the IGCM fits on this is questionable: See '\MyPrivJournalReligion\IGCM\Scrutiny.md' for further information.
+* For reason number 2: Even if we assume that the true church must be base on what's written on the bible, the claim that the IGCM fits on this is questionable: See '\\Religion\IGCM\Scrutiny.md' for further information.
 
-* For reason number 3: Even if we assume that the true church must implement all Christ doctrines or Commandments, the claim that the IGCM fits on this is questionable: See '\MyPrivJournalReligion\IGCM\Scrutiny.md' for further information.
+* For reason number 3: Even if we assume that the true church must implement all Christ doctrines or Commandments, the claim that the IGCM fits on this is questionable: See '\\Religion\IGCM\Scrutiny.md' for further information.
 
 * For reason number 4, just because no one can gainsay nor resist the doctrine that was taught and implemented in the IGCM, does it mean that it is true? Just because we don't have evidence on falseness of something, does it mean that it is true? For example, I claim that the flying sphagetti monster exist in other planet. We don't have evidence of the contrary of it, does it mean that it is certain that there are flying sphagetti monster?
 
@@ -46,7 +46,7 @@
 
 * For reason number 6, the claim that the prophecy is happening in "Mal 1:11, Zech 8:7, Isa 24:15, Jer 30:19-24, and Dan 12:10" is questionable. It seems that the text in the bible can interpret differently, does it not?
 
-* All of those reason are base on the bible but the bible is questionable itself as we can see on our docu - '\MyPrivJournalReligion\Bible'.
+* All of those reason are base on the bible but the bible is questionable itself as we can see on our docu - '\\Religion\Bible'.
 
 ## Conclusion
 

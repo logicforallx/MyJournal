@@ -20,12 +20,12 @@ means
 ## **Ontological Grounding of Value Argument**  
 
 **P1.** If there is no supremely perfect being, then there is no ultimate ontological ground for 'idea of supremely perfect' and 'objective goodness and value' that begins to exist. Here's why:
-1. If there is no supremely perfect being, then the existence of 'idea of supremely perfect' and 'objective goodness and value' that begins to exist is not entirely dependent on something. *This is base from casual adequacy principle, documented in '\MyPrivJournalSupreme Being\Existence\Ex nihilo nihil fit.md'.*
+1. If there is no supremely perfect being, then the existence of 'idea of supremely perfect' and 'objective goodness and value' that begins to exist is not entirely dependent on something. *This is base from casual adequacy principle, documented in '\\Supreme Being\Existence\Ex nihilo nihil fit.md'.*
 2. If the 'idea of supremely perfect' and 'objective goodness and value' that begins to exist is not entirely dependent on something, then there is no ultimate ontological ground for it. *This is base from implications of ontological ground's definition.*
 
 **P2.** Without an ontological ground for it, the “supreme perfection,” “good,” “right,” and “valuable” that begins to exist become mere projections of subjective preference. Here's why:
 1. If there's no ontological ground for  the “supreme perfection,” “good,” “right,” and “valuable” that begins to exist, then those are not entirely dependent on something. *This is base from implications of ontological ground's definition.*
-2. If something that begins to exist is not entirely dependent on something, then it cannot begins to exist. *This is base from casual adequacy principle and nothing comes from nothing, documented in '\MyPrivJournalSupreme Being\Existence\Ex nihilo nihil fit.md'.* 
+2. If something that begins to exist is not entirely dependent on something, then it cannot begins to exist. *This is base from casual adequacy principle and nothing comes from nothing, documented in '\\Supreme Being\Existence\Ex nihilo nihil fit.md'.* 
 
 **C.** Therefore, if God or Supremely Perfect being does not exist, objective value, especially it supreme perfection (and thus objectively real fulfillment) can not exist.
 - It can imply that we are just thinking or feeling it as “good,” “right,” and “valuable” even if its not, objectively.
@@ -68,6 +68,8 @@ If God or Supremely perfect being does not exist, then absolute and infinite goo
         - If goodness is merely a potential outcome of evolutionary processes, and there is no actual goodness beforehand, then goodness is coming from nothing. Ex nihilo nihil fit — from nothing, nothing comes. Thus, evolution cannot produce actual, objective goodness if no prior actuality of goodness existed. Mere potentiality of goodness, ungrounded in actual goodness, cannot generate real objective morality. You cannot get an objective "ought" from a blind "is." (this is the "is-ought gap" — Hume)
     - Evolutionary morality might explain why we feel things are good or bad. But it cannot explain why they really are good or bad. Thus, evolutionary morality cannot ground real objective value. So, Objective morality requires a real ontological ground: Supremely Good Being — God. Does it?
 
+
+---
 
 ## Conclusion
 

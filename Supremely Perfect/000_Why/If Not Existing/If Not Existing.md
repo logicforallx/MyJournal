@@ -172,4 +172,4 @@
 
 If Supremely Perfect Being (God) does not exist, then does the following above is the implication of it?
 
-Further meditation about this is documented in '\MyPrivJournalSupreme Being\000_Why\If Not Existing\'.
+Further meditation about this is documented in '\\Supreme Being\000_Why\If Not Existing\'.

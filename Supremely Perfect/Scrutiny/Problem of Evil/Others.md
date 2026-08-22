@@ -1,0 +1,16 @@
+# Other Problem of Evil Scrutiny
+
+* If a greater good justified evil, then it would seem cruel and unnecessary for individuals to suffer so intensely. A truly good God would find a way to achieve the greater good without such suffering.
+    - This objection assumes that it is possible to achieve every greater good without suffering or evil, what if it is logically necessary for the greater good and we just can't comprehend it?
+
+* If I go to the lab and create viruses and that killed thousand and million of people, am I evil? Now, how about natural phenomenona that killed thousand or million of people like malaria, natural disaster, etc? Considering the thought experiment and If God is the cause of those, is God evil or not?
+    - Does the Supremely perfect is the cause of that, or it is cause by others? 
+    - Even if we assume that God is the cause of that, are we the Supreme? Can we make someone reincarnate so they can try again? Or are we sure that we can make someone to be at better place or state if they died unlike the possible capacity of the Supreme? 
+    * But the Supreme can handle it, so it follows from that reasoning that killing is justifiable even for us, right?
+    -  Why? do you have a greater good reason and capacity for doing that unlike the possible capacity of the Supreme? If not, how will it be justifiable for us if we are unable to have a greater good reason and capacity for doing such thing? While Supreme can possibly handle it, but it does not mean that we are justified for doing that as Supreme and us are not in identitical condition, isn't it?
+
+* James is in a road trip, and he is a doctor, then accident happen on the way. He stop to check it, and have seen that someone was badly needed first aid, since if not, then that somone will die due to the loss of blood. James can do something about it to save them, however, James is on the vacation mode, then he return to the car and went away. So, do you think that what James did was morally right? If its morally wrong, why does a Supremely perfect being can allow evil if it has the capacity to prevent it?
+    - Finite being like humans are not the same as Supreme. Is it not possible that the Supreme has the capacity for a greater good reason for allowing all evil unlike us? If so, this will not follow, does it not?
+
+* Having a real goodness and experiencing (aware of) them positively is better than not, right? However if that is the case, consider the following: If Supremely perfect being exist, then it is Perfect or absolutely good to all. Therefore, if Supremely perfect being exist, then we are having absolute goodness and experiencing (aware of) them positively, does it not? However, it appears that we are not experiencing and aware of the perfection (Absolute goodness) right now, right?
+    -  If Perfection or absolute goodness implies infinite goodness (in time, perception, scope), plus if we, the finite beings cannot instantaneously or completely experience infinite goodness, therefore, our current lack of full experience/awareness of absolute goodness does not prove its non-existence, does it not? it may simply reflect our finite stage in an infinite process, right?

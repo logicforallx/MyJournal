@@ -1,0 +1,78 @@
+Reasoning technique:
+
+* **Here are three common reasoning methods along with examples of how they can be used:**
+
+   1. **Deductive Reasoning:** Deductive reasoning involves drawing specific conclusions from general principles or premises. It follows a top-down approach, where the conclusion is necessarily true if the premises are true, and is consistent to be true from premises. The conclusion must be strictly valid and not just possibility.
+      - **Invalid Example (P=Premise, and C=Conclusion):**
+      - (P1) All humans are mortal. (P2) Socrates is a human. (C) So, Socrates is a unicorn human. Invalid, for C is not consistent on the premises.
+      - (P1) I imagine a triangle. (P2) The general definition of Triangle is a shape that has no side. (C) So, I imagine a shape that has no side. Invalid, for even if C is consistent on the premises, but the P2 is false as it is inconsistent with the general definition of a triangle.
+      - **Valid Example (P=Premise, and C=Conclusion):**
+      - (P1) If X=2. (P2) If Y=X. (C) So, Y=2.
+      - (P1) If I imagine a triangle. (P2) If I define triangle as a shape that has a 3 side. (C) So, I imagine a shape that has a 3 side. 
+      - (P1) If X is a hairy dog. (C) So, X is a dog.
+
+   2. **Inductive Reasoning:** Inductive reasoning involves making generalizations or predictions based on specific observations or evidence. It follows a bottom-up approach, where the conclusion is likely but not necessarily true.
+      - **Example (O=Observation, and C=Conclusion):** (O1) The sun has risen every day so far. (O2) The sun will rise tomorrow.(C) So, it is possible that the sun will always rise.
+
+   3. **Abductive Reasoning:** Abductive reasoning involves generating the best possible explanation for a set of observations or evidence. It aims to find the most likely cause or reason for a given set of facts. This implies the best possible conclusion we can perceived.
+      - **Example (O=Observation, and C=Conclusion):**(O1) The ground is wet. (O2) The sky is cloudy. (C) Therefore, it probably rained.
+ 
+
+ 
+Here are some formal reasoning techniques and examples of how they can be used:
+
+* **Deductive reasoning:** This is a type of reasoning that uses premises to reach a conclusion. The premises are statements that are assumed to be true, and the conclusion is a statement that follows logically from the premises. For example, if the premises are "All men are mortal" and "Socrates is a man," then the conclusion is "Socrates is mortal."
+
+An example of deductive reasoning in action is a syllogism. A syllogism is a three-part argument that has a major premise, a minor premise, and a conclusion. The major premise is a general statement, the minor premise is a specific statement, and the conclusion is a statement that follows logically from the major and minor premises. For example, the following is a syllogism:
+
+* Major premise: All humans are mortal.
+* Minor premise: Socrates is a human.
+* Conclusion: Therefore, Socrates is mortal.
+
+* **Inductive reasoning:** This is a type of reasoning that uses specific observations to reach a general conclusion. The observations are used to form a hypothesis, which is then tested against further observations. If the hypothesis is supported by the observations, then it can be considered to be a valid conclusion. For example, if you observe that all the swans you have ever seen are white, then you might induce that all swans are white.
+
+An example of inductive reasoning in action is a scientific experiment. In a scientific experiment, the scientist makes observations, forms a hypothesis, and then tests the hypothesis by conducting an experiment. If the results of the experiment support the hypothesis, then the hypothesis can be considered to be a valid conclusion.
+
+* **Propositional logic:** This is a formal system that uses symbols to represent propositions, or statements that can be either true or false. Propositional logic is used to study the validity of arguments, or the extent to which the conclusion of an argument follows logically from the premises. For example, the following is a valid argument in propositional logic:
+
+* P implies Q.
+* Q is true.
+* Therefore, P is true.
+
+* **Predicate logic:** This is a formal system that is based on propositional logic, but it also allows for the quantification of variables. In predicate logic, variables can be used to represent objects or sets of objects. This allows for more complex arguments to be expressed and analyzed. For example, the following is a valid argument in predicate logic:
+
+* For all x, if x is a cat, then x is an animal.
+* Socrates is a cat.
+* Therefore, Socrates is an animal.
+
+These are just a few examples of formal reasoning techniques. There are many other formal reasoning techniques that can be used, depending on the specific situation.
+
+
+
+
+
+......
+
+ logical deduction is indeed a valid way to justify things and provide reasoning. Here are some reasoning techniques along with examples:
+
+1. **Inductive Reasoning:** Drawing general conclusions from specific observations. For example, if you observe that the sun has risen every day of your life, you might conclude that the sun will rise tomorrow.
+
+2. **Deductive Reasoning:** Drawing specific conclusions from general premises. For example, if all humans are mortal and you know someone is a human, you can deduce that they are mortal.
+
+3. **Abductive Reasoning:** Making the best inference based on the available information. For example, if you find a wet umbrella, you might infer that it's raining outside.
+
+4. **Analogical Reasoning:** Drawing conclusions based on similarities between different cases. For instance, if you know that a certain treatment worked for a similar medical condition, you might apply the same treatment to a new case.
+
+5. **Statistical Reasoning:** Using statistical data to support a conclusion. For example, if a survey shows that 90% of people prefer product A over product B, you might conclude that product A is more popular.
+
+6. **Causal Reasoning:** Establishing a cause-and-effect relationship between events or phenomena. If you notice that a plant grows better when exposed to sunlight, you might conclude that sunlight is causing the growth.
+
+7. **Analogous Reasoning:** Drawing conclusions from analogous situations. If a certain approach worked to solve a problem in one field, you might use a similar approach to solve a different problem in another field.
+
+8. **Reductive Reasoning:** Breaking down complex problems into simpler components to understand or solve them. For instance, when solving a math problem, you might break it down into smaller steps.
+
+9. **Counterfactual Reasoning:** Evaluating what would have happened if certain conditions were different. For instance, if a car accident occurred due to speeding, you might wonder what would have happened if the driver had been driving slower.
+
+10. **Hypothetical Reasoning:** Exploring hypothetical scenarios to draw conclusions. For example, you might consider what would happen if a company invested more in research and development.
+
+Each of these techniques can be used to provide logical justification and reasoning for various situations or claims.

@@ -21,7 +21,7 @@ Key:
 3. Therefore, objective moral truths must be grounded in something transcendent (beyond nature). *(Base from 1 and 2)*
 
 **P2.** If God does not exist, nothing transcendent grounds moral “oughts.”  Why?
-- See the documentation in \MyPrivJournalSupreme Being\000_Why\If Not Existing\Ontological Ground.md'.
+- See the documentation in \\Supreme Being\000_Why\If Not Existing\Ontological Ground.md'.
 
 **C1**  If God does not exist, objective moral “oughts” cannot exist. *(Base from 1 and 2)*
 

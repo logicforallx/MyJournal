@@ -19,7 +19,7 @@
 
         - *Note:* IGCM here is cryptic to avoid some possible negative consequences.
 
-* However, the bible authenticity is questionable. As we can see in '\MyPrivJournalReligion\Bible', the following reason are the sample:
+* However, the bible authenticity is questionable. As we can see in '\\Religion\Bible', the following reason are the sample:
     - Lack of conclusive proof that it is from God.
     - Questionable ethics or counsel
     - Possible Contradiction
@@ -44,7 +44,7 @@
     - See [Not Consented Sx](#not-consented-sx)
     - See [Area 52](#area-52)
     - See [False Prophet](#false-prophet)
-    - See '\MyPrivJournalReligion\IGCM\other-notes\'
+    - See '\\Religion\IGCM\other-notes\'
     - provide more samples here....(to follow)
 
 * Therefore, it is probably not the case that the IGCM's beliefs and doctrines foundation is the bible, therefore contradicting their claim that it is their basis, right?
@@ -98,7 +98,7 @@
 
 * IGCM is justifying and doing broadcasting of their alms or charity: *This is base on the following:*
     - This is base on my personal observation (as of 2022)
-    - See '\MyPrivJournalReligion\IGCM\resource\alms-brodcast'
+    - See '\\Religion\IGCM\resource\alms-brodcast'
     - They justifying it by asserting that they must be an example to people and broadcasting is a means for that. However,  Paul stated that he became example of all things, how can they be an example of the Mathew 6 or verses below if they are doing contrary to that by broadcasting alms?
 
 * Justifying and broadcasting of alms or charity is contradictory to the Bible God's commandment and Bible's wisdom. *This is written on the following verses:*
@@ -122,14 +122,14 @@
     * Yes as much as possible, or just blurd faces, etc. 
     * But, Christians or member of their Chruch write or broadcast their members good works like writers of the new testament epistles, esp in Acts, eg., those who sell their lands and give the money to Apostles, and etc, right?
     - But they did not broadcast their own good works, they broadcast other person good works, or other broadcast their works . And, if its written that it is OK to broadcast your own good works, then Bible is contradicting, like in Mat 6, Proverbs, etc, does it not?
-    - Further, Is IGCM doing that? No, look at their caption, documented in "\MyPrivJournalReligion\IGCM\resource\alms-brodcast". IGCM is broadcasting their own works while putting in a caption that they did it, which is contrary to the virtue in Mathew 6, does it not?
+    - Further, Is IGCM doing that? No, look at their caption, documented in "\\Religion\IGCM\resource\alms-brodcast". IGCM is broadcasting their own works while putting in a caption that they did it, which is contrary to the virtue in Mathew 6, does it not?
     - Furthermore, how about the verses in Prov 21:14 and Pro 27:14?
     - (OPEN)
 
 ## Not Consented Sx
 
 * IGCM presiding teacher/minister state that they can/have sometimes sx with their wife even without consent or not in mutual:
-    - See '\MyPrivJournalReligion\IGCM\resource\Not-consented-sx.mp4'
+    - See '\\Religion\IGCM\resource\Not-consented-sx.mp4'
 
 * This behavior is contrary on the Christ commandment/Bible god's word:
     - This behavior is contrary on the Christ commandment of loving your wife as yourself and contrary on golden rule which is included in Christ commandment also (In Mathew-Luke). 
@@ -146,7 +146,7 @@
 ## Area 52
 
 * It appears that the IGCM leaders has AREA 52 Night Club business, which include selling of beer:
-    - See: '\MyPrivJournalReligion\IGCM\other-notes
+    - See: '\\Religion\IGCM\other-notes
 
 * This is against the bible god's word/councel according to the following:
     - We should not be instrument of unrighteousness, written in book of Romans. 
@@ -181,7 +181,7 @@
     - Deuteronomy 18:20-22 (Old Testament) - "But the prophet who presumes to speak a word in my name that I have not commanded him to speak or who speaks in the name of other gods, that same prophet shall die."
 
 * The IGCM former presiding ministry (SEB) has false prophecy:
-    - See '\MyPrivJournalReligion\IGCM\resource\false-prophecy'. It appears that there are many witnesses for this.
+    - See '\\Religion\IGCM\resource\false-prophecy'. It appears that there are many witnesses for this.
 
 * Therefore, is the IGCM former presiding ministry (SEB) is a false prophet?
 
@@ -189,7 +189,7 @@
 
 ## Others
 
-* See ''\MyPrivJournalReligion\IGCM\other-notes' for more information on why it is doubtable to be rely our faith and life on this.
+* See ''\\Religion\IGCM\other-notes' for more information on why it is doubtable to be rely our faith and life on this.
 
 ## Scrutiny
 
