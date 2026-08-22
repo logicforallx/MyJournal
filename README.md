@@ -4,7 +4,7 @@
 
 This is my personal research and analysis journal for one central question:
 
-> **What is true, and how should I live in light of it?**
+> **What is true  (specifically what is truly good), and how should I live in light of it?**
 
 This project or journal brings together philosophy, logic, epistemology, theology, morality, psychology, and practical reflection. It is intended to help me investigate
 questions about reality, God's existence and nature, objective goodness,
@@ -23,7 +23,7 @@ scrutiny.
 - What are the foundations of logic, reason, observation, memory, and
   testimony?
 - Does God - a necessary, intelligent, or supremely good being exist?
-- If God exists, what follows about reality, morality, purpose, and human life?
+- If God exists or does not exists, what follows about reality, morality, purpose, and human life?
 - Is goodness objective, and what is genuinely good or satisfying for a person?
 - What should I do with this life once the best available conclusions are clear?
 - And the likes.
